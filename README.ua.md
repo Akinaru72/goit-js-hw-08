@@ -20,9 +20,11 @@
 ![Project preview]assets/goit-js-08.mp4
 ![Project preview](assets/goit-js-08.mp4)
 
-(https://github.com/Akinaru72/goit-js-hw-08/blob/main/assets/goit-js-08.mp4)
+(https://github.com/Akinaru72/goit-markup-hw-03/issues/1#issue-3778417388)
 
-https://github.com/Akinaru72/goit-js-hw-08/blob/main/assets/goit-js-08.mp4
+(https://github.com/user-attachments/assets/235cb9dd-aeeb-4693-9db1-0a660372b464)
+
+https://github.com/user-attachments/assets/235cb9dd-aeeb-4693-9db1-0a660372b464
 
 ## 🎥 video
 
