@@ -17,8 +17,8 @@
 Створи галерею з можливістю кліку по її елементах і перегляду повнорозмірного
 зображення в модальному вікні. Подивись демовідео роботи галереї.
 
-assets/goit-js-08.mp4
-(assets/goit-js-08.mp4)
+![Project preview]assets/goit-js-08.mp4
+![Project preview](assets/goit-js-08.mp4)
 
 (https://github.com/Akinaru72/goit-js-hw-08/blob/main/assets/goit-js-08.mp4)
 
