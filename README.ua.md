@@ -19,6 +19,10 @@
 
 <!-- (assets/goit-js-08.mp4) -->
 
+<video width="630" height="300" controls>
+  <source src="https://github.com/user-attachments/assets/13a00c26-39a4-42c5-b585-efdf89e23fc6" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ▶️ [Watch video]
 https://github.com/user-attachments/assets/13a00c26-39a4-42c5-b585-efdf89e23fc6
 
