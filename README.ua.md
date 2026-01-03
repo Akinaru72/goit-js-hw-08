@@ -17,33 +17,9 @@
 Створи галерею з можливістю кліку по її елементах і перегляду повнорозмірного
 зображення в модальному вікні. Подивись демовідео роботи галереї.
 
-![Project preview]assets/goit-js-08.mp4
-![Project preview](assets/goit-js-08.mp4)
-
-(https://github.com/Akinaru72/goit-markup-hw-03/issues/1#issue-3778417388)
-
-(https://github.com/user-attachments/assets/235cb9dd-aeeb-4693-9db1-0a660372b464)
-
-https://github.com/user-attachments/assets/235cb9dd-aeeb-4693-9db1-0a660372b464
-
 ## 🎥 video
 
 https://github.com/user-attachments/assets/dd073bcd-7e57-48df-9ad4-e5218b037bc4
-
-<!--
-<video width="630" height="300" controls>
-  <source src="assets/goit-js-08.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
-
-<video width="630" height="00" controls autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/Akinaru72/goit-js-hw-08/main/assets/goit-js-08.mp4
-  " type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<!-- ▶️ [Watch video]
-https://github.com/user-attachments/assets/13a00c26-39a4-42c5-b585-efdf89e23fc6 -->
 
 Створення галереї — це комплексна задача, яку краще розбити на декілька
 простіших підзадач, виконуючи кожну з яких, ти будеш наближатися до кінцевої
@@ -220,4 +196,4 @@ const images = [
 
 ---
 
-**Жива сторінка: [GitHub Pages](https://akinaru72.github.io/goit-js-hw-07/)**
+**Жива сторінка: [GitHub Pages](https://akinaru72.github.io/goit-js-hw-08/)**
