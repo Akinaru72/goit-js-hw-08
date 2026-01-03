@@ -17,7 +17,7 @@
 Створи галерею з можливістю кліку по її елементах і перегляду повнорозмірного
 зображення в модальному вікні. Подивись демовідео роботи галереї.
 
-<!-- (assets/goit-js-08.mp4) -->
+assets/goit-js-08.mp4
 
 ## 🎥 video
 
@@ -27,8 +27,8 @@
   Your browser does not support the video tag.
 </video> -->
 
-<video width="630" height="300" controls autoplay muted loop>
-  <source src="./assets/goit-js-08.mp4" type="video/mp4">
+<video width="630" height="00" controls autoplay muted loop>
+  <source src="https://github.com/Akinaru72/goit-js-hw-08/blob/main/assets/goit-js-08.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
